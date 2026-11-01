@@ -1,0 +1,19 @@
+:root {
+  --color-brand-50: #f0f9ff;
+  --color-brand-500: #0ea5e9;
+  --color-brand-600: #0284c7;
+  --color-slate-900: #0f172a;
+  --color-slate-950: #020617;
+  --shadow-soft: 0 2px 15px -3px rgba(0, 0, 0, 0.07),
+    0 10px 20px -2px rgba(0, 0, 0, 0.04);
+  --shadow-card: 0 4px 6px -1px rgba(0, 0, 0, 0.05),
+    0 2px 4px -1px rgba(0, 0, 0, 0.03);
+  --radius-xl: 0.75rem;
+  --radius-2xl: 1rem;
+  --transition-all: all 0.2s ease;
+  --transition-spring: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.dark {
+  --color-slate-900: #f8fafc;
+}
